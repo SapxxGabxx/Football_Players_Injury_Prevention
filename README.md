@@ -1,5 +1,5 @@
-# Football_Players_Injury_Prevention
-Applying ACWR to a Football Team Dataset
+# Football_Players_Injury_Prevention ❌⚽
+Applying ACWR to a Football Team Dataset 
 
 In the data set, there are daily sessions of a team in an entire season.
 
