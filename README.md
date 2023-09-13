@@ -1,13 +1,12 @@
 # Football_Players_Injury_Prevention
 Applying ACWR to a Football Team Dataset
 
-Nel set di dati, ci sono sessioni giornaliere di una squadra in un'intera stagione. 
+In the data set, there are daily sessions of a team in an entire season.
 
-Verrà utilizzato il rapporto tra carico di lavoro acuto e cronico come strategia per cercare di limitare gli infortuni evitando allenamenti ad alto carico non abituali. 
+The relationship between acute and chronic workload will be used as a strategy to try to limit injuries by avoiding unaccustomed high-load workouts.
 
-Inoltre, verranno illustrate strategie per il "ritorno al gioco(post-infortunio)", in modo tale da non fare l'errore di fare carichi pesanti nei primi periodi successivi al rientro dall'infortunio.
+In addition, strategies for "return-to-play(post-injury)" will be illustrated so as not to make the mistake of doing heavy loads in the early periods following return from injury.
 
-Il dataset dell'UM contiene frequenza cardiaca, Playerload di Catapult e coordinate GPS. 
-Ci concentreremo sul punteggio del carico del giocatore e sul calcolo del rapporto tra carico di lavoro acuto e cronico.
+The UM dataset contains heart rate, Catapult playerload and GPS coordinates. We will focus on scoring player load and calculating the ratio of acute to chronic workload.
 
-Posizioni giocatori: Portiere(GK), Difensore(D), Centrocampista(M) e  Attaccante(F).
+Player positions: Goalkeeper(GK), Defender(D), Midfielder(M) and Forward(F).
